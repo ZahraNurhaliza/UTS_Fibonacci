@@ -1,5 +1,16 @@
 # UTS_Fibonacci
 
+Nama        : Zahra Nurhaliza
+
+NIM         : 312210364
+
+Kelas       : TI.22.A4
+
+Mata Kuliah : Premograman Mobile 1
+
+Dosen       : Donny Maulana, S.Kom., M.M.S.I
+
+
 ## MainActivity.java
 
 ### ~ Package
